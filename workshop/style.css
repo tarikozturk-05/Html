@@ -1,0 +1,21 @@
+#navbar {
+    background-color: black;
+    border-bottom: 6px solid red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#branding
+{
+   margin-left: 50px;
+    color: white
+}
+#nav a {
+        color: white;
+        text-decoration: none;
+}
+#nav li{
+    display: inline;
+    padding: 0px 50px;
+    font-size: 35px;
+}
