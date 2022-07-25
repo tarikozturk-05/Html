@@ -1,0 +1,70 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.container{
+    border: 2px solid rgb(48, 46, 46);
+    width: 80%;
+    margin: auto;
+    background-color: rgb(48, 46, 46);
+    border-radius: 20px;
+}
+
+#title{
+    font-size: 90px;
+    text-align: center;
+}
+#span1{
+    color: red;
+}
+#img-div{
+    /* border: 2px solid red; */
+    text-align: center;
+    
+}
+#info{
+    /* border: 1px solid red; */
+    width: 80%;
+    margin: 20px auto;
+    text-align: justify;
+}
+#marvel{
+    /* border: 1px solid red; */
+    color: red;
+    width: 80%;
+    margin-left: 10%;
+}
+ul{
+    width: 80%;
+    margin: auto;
+}
+li{
+    line-height: 2rem;
+    font-size: 20px;
+}
+#footer{
+    margin: 2rem;
+    padding: 2rem;
+    text-align: center;
+    font-size: 2rem;
+}
+#link{
+    text-decoration: none;
+    color: white;
+    border: 2px solid darkorange;
+    padding: 1rem;
+    border-radius: 10px;
+    background-color: black;
+
+}
+#link:hover{
+    background-color: gray;
+    color: aqua;
+}
+#image{
+    box-shadow: 5px 5px 500px;
+    color: red;
+
+}
+
